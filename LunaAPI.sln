@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunaAPI", "LunaAPI\LunaAPI.csproj", "{27C8607C-D634-4122-B7C4-31BEA1E02BDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunaAPI.Domain", "LunaAPI.Domain\LunaAPI.Domain.csproj", "{B7F52BC7-174B-4773-810D-AF914CDB9779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunaAPI.Repository", "LunaAPI.Repository\LunaAPI.Repository.csproj", "{53A4C4DF-0F16-449B-8D71-1A635DB705C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunaAPI.Service", "LunaAPI.Service\LunaAPI.Service.csproj", "{00B16639-8F28-40E3-8522-C936C83742AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27C8607C-D634-4122-B7C4-31BEA1E02BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C8607C-D634-4122-B7C4-31BEA1E02BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C8607C-D634-4122-B7C4-31BEA1E02BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C8607C-D634-4122-B7C4-31BEA1E02BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7F52BC7-174B-4773-810D-AF914CDB9779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F52BC7-174B-4773-810D-AF914CDB9779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F52BC7-174B-4773-810D-AF914CDB9779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F52BC7-174B-4773-810D-AF914CDB9779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53A4C4DF-0F16-449B-8D71-1A635DB705C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53A4C4DF-0F16-449B-8D71-1A635DB705C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53A4C4DF-0F16-449B-8D71-1A635DB705C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53A4C4DF-0F16-449B-8D71-1A635DB705C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00B16639-8F28-40E3-8522-C936C83742AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B16639-8F28-40E3-8522-C936C83742AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B16639-8F28-40E3-8522-C936C83742AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B16639-8F28-40E3-8522-C936C83742AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16ECA96C-5770-404A-BEB1-1A887772E8C5}
+	EndGlobalSection
+EndGlobal
